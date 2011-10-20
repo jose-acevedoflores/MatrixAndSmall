@@ -157,18 +157,7 @@ public class Matrix2x2 implements KeyListener, ActionListener, MatrixInterface{
 		}
 		
 	}
-
-
-	public void keyReleased(KeyEvent arg0) {
 	
-		
-	}
-
-	
-	public void keyTyped(KeyEvent arg0) {
-
-	}
-
 	/**
 	 * Handles the mouse button press
 	 */
@@ -203,6 +192,19 @@ public class Matrix2x2 implements KeyListener, ActionListener, MatrixInterface{
 		}
 		
 	}
+
+
+	public void keyReleased(KeyEvent arg0) {
+	
+		
+	}
+
+	
+	public void keyTyped(KeyEvent arg0) {
+
+	}
+
+	
 	
 
 }
